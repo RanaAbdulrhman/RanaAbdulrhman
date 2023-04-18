@@ -1,30 +1,25 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&!&height=200&section=header"/>
+  <img width="2000" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&!&height=200&section=header"/>
 </p>
 
 <h1 align="center">
   I'm Rana
 </h1>
-<h4 align="center">
-  Web Developer & Computer Science Studnet 
-</h4>
-
-
-<h5 align="center">
-  <code><a href="https://www.linkedin.com/in/ranaaldossari/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="https://twitter.com/RanaAbdulrhmanD" title="Twitter Profile"><img width="22" src="images/twitter.svg"> Twitter</a></code>
-</h5>
+<h3 align="center">
+  Web Developer & Computer Science Student 
+</h3>
 <br>
-<div>
-  Hi, I'm Rana,  & Web Developer
-  <br>
-  I'm Learning React & Flask
-  <br>
-  Check out my  <a href="https://ranado.me">portfolio</a>
-</div>
+<br>
 
-<h2>🚀 &nbsp;Some Tools I Have Used and Learned</h2>
-<p>
+<h3 align="left">&nbsp; Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/RanaAbdulrhmanD" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="proabdulrahmna" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ranaaldossari/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdulrahman-mosaibah-32873a196" height="30" width="40" /></a>
+</p>
+<br>
+
+<h3> &nbsp;Some Tools I Have Used and Learned</h3>
+<div>
   <img title="Python" height="35" src="images/python-original.svg">
   <img title="Flask" height="35" src="images/flask.png">
   <img title="React" height="35" src="images/react-original.svg">
@@ -39,13 +34,11 @@
   <img title="GitHub" height="35" src="images/github.svg">
   <img title="MySQL" height="35" src="images/mysql.svg">
   <img title="PHP" height="35" src="images/php.svg">
-</p>
-<br>
+</div>
 <br>
 <br>
 
-<h2>⚡ Stats ⚡</h2>
-<br>
+<h3>⚡ Stats ⚡</h3>
 <p align=center>
   <div align=center>
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
@@ -58,12 +51,9 @@
   <br><br><br><br><br><br><br><br><br>
   <div align=center>
      <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="center" width=390 src="https://github-readme-stats.vercel.app/api/wakatime?username=Rana_d4&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+      <img align="center" width=370 src="https://github-readme-stats.vercel.app/api/wakatime?username=Rana_d4&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
     </a>
   </div>
- <br>
-  
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=RanaAbdulrhman&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
 
 <br/><br/><br/>
