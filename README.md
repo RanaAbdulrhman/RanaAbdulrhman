@@ -1,28 +1,30 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&!&height=200&section=header"/>
+</p>
+
 <h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I'm+Rana....;Nice+to+meet+you!&center=true&size=30">
-  </a>
+  I'm Rana
 </h1>
+<h4 align="center">
+  Web Developer & Computer Science Studnet 
+</h4>
+
 
 <h5 align="center">
   <code><a href="https://www.linkedin.com/in/ranaaldossari/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
   <code><a href="https://twitter.com/RanaAbdulrhmanD" title="Twitter Profile"><img width="22" src="images/twitter.svg"> Twitter</a></code>
 </h5>
 <br>
-<p align="center">
-  Hi, I'm Rana, Computer Science Studnet & Web Developer
+<div>
+  Hi, I'm Rana,  & Web Developer
   <br>
   I'm Learning React & Flask
   <br>
-  📫 How to reach me: <a href="mailto: RanaAbdulrhman@gmail.com">RanaAbdulrhman@gmail.com</a>
-  <br>
-  check out my [portfolio](https://ranado.me/)
-</p>
+  Check out my  <a href="https://ranado.me">portfolio</a>
+</div>
 
-<hr>
-<h2 align="center">🔥 Languages & Frameworks & Tools 🔥</h2>
-<br>
-<p align="center">
+<h2>🚀 &nbsp;Some Tools I Have Used and Learned</h2>
+<p>
   <img title="Python" height="35" src="images/python-original.svg">
   <img title="Flask" height="35" src="images/flask.png">
   <img title="React" height="35" src="images/react-original.svg">
@@ -38,9 +40,11 @@
   <img title="MySQL" height="35" src="images/mysql.svg">
   <img title="PHP" height="35" src="images/php.svg">
 </p>
-<hr>
+<br>
+<br>
+<br>
 
-<h2 align="center">⚡ Stats ⚡</h2>
+<h2>⚡ Stats ⚡</h2>
 <br>
 <p align=center>
   <div align=center>
@@ -62,6 +66,9 @@
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=RanaAbdulrhman&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
 
-<hr>
-<br/><br/><br/><br/><br/><br/>
+<br/><br/><br/>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer"/>
+</p>
 
