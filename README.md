@@ -8,7 +8,7 @@
 
 <h5 align="center">
   <code><a href="https://www.linkedin.com/in/ranaaldossari/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="https://twitter.com/RanaAbdulrhmanD" title="Twitter Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
+  <code><a href="https://twitter.com/RanaAbdulrhmanD" title="Twitter Profile"><img width="22" src="images/twitter.svg"> Instagram</a></code>
 </h5>
 <br>
 <p align="center">
@@ -78,7 +78,7 @@
   <br><br><br><br><br><br><br><br><br>
   <div align=center>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RanaAbdulrhman" />
+      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RanaAbdulrhman&layout=compact&theme=react" />
     </a>
   </div>
   <br>
