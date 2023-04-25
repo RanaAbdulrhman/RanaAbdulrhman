@@ -23,8 +23,8 @@
   <img title="Python" height="35" src="images/python-original.svg">
   <img title="Flask" height="35" src="images/flask.png">
   <img title="React" height="35" src="images/react-original.svg">
-  <img title="React" height="35" src="images/bootstrap.svg">
-  <img title="React" height="35" src="images/tailwind.svg">
+  <img title="Bootstrap" height="35" src="images/bootstrap.svg">
+  <img title="TailwindCSS" height="35" src="images/tailwind.svg">
   <img title="Javascript" height="35" src="images/javascript.svg">
   <img title="HTML5" height="35" src="images/html5.svg">
   <img title="CSS" height="35" src="images/css.svg">
